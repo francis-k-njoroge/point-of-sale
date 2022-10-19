@@ -1,0 +1,66 @@
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\WA NICE.exe.config
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\WA NICE.exe
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\WA NICE.pdb
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA NICE.csprojResolveAssemblyReference.cache
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.Form1.resources
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.Properties.Resources.resources
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA NICE.csproj.GenerateResource.Cache
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA NICE.exe
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA NICE.pdb
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.POS.resources
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.print.resources
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\WANICEGEN.mdf
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\WANICEGEN_log.ldf
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\FlashControlV71.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\bin\Debug\stdole.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\WA NICE.exe.config
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA NICE.exe
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA NICE.pdb
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\WANICEGEN.mdf
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\WANICEGEN_log.ldf
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\WA NICE.exe
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\WA NICE.pdb
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\FlashControlV71.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\bin\Debug\stdole.dll
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA NICE.csprojResolveAssemblyReference.cache
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA_NICE.Form1.resources
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA_NICE.POS.resources
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA_NICE.print.resources
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA_NICE.Properties.Resources.resources
+C:\Users\amoh\Desktop\c# project\WA NICE\WA NICE\obj\Debug\WA NICE.csproj.GenerateResource.Cache
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.reports.resources
+C:\Users\amoh\Desktop\photo shop\WA NICE\WA NICE\obj\Debug\WA_NICE.login.resources
